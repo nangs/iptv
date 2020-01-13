@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" tvg-country="QA" tvg-url="" group-title="",BeIN Sports Extra
+https://v-pi.mybtv.net/event/8.4/640x480?start_time=2019-12-13T20%3A45%3A00.000Z&end_time=2026&env=prd&uid=29375
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" tvg-country="QA" tvg-url="" group-title="",BeIN Sports Extra (Backup)
+https://bein-xtra-roku.amagi.tv/ssai/amagi_hls_data_beinAAAAA-beinxtra/CDN/1920x1080_5640800/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IL" tvg-url="" group-title="",ch 12 קשת
+http://keshethlslive-lh.akamaihd.net/i/CH12CC_1@732426/index_2200_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IL" tvg-url="" group-title="",ch 21 ערוץ הקניות
+http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV.smil/chunklist_w2043660694_b2128000.m3u8?ttl=1524643697&cdn_token=5a6c4f1270440ae72118c8ae16c58de4%7CUser-Agent=Mozilla/5.0%20(Macintosh;%20Intel%20Mac%20OS%20X%2010_10_2)%20AppleWebKit/600.3.18%20(KHTML,%20like%20Gecko)%20Version/8.0.3%20Safari/600.3.18
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="FR" tvg-url="" group-title="Music",D5TV
+http://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2014/09/pop-logo.jpg" tvg-country="US" tvg-url="" group-title="",Pop
+https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="SN" tvg-url="" group-title="",RTS 1
+http://live1.acangroup.org:1930/larts/rts1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yLzIwMjAgMzowNDoxNSBBTSZoYXNoX3ZhbHVlPUd0ZDA5RWpkaDhBdkJwTExnU1hweUE9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="SN" tvg-url="" group-title="",RTS 2
+http://live1.acangroup.org:1930/larts/rts2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yLzIwMjAgMzowODozOCBBTSZoYXNoX3ZhbHVlPXBXbkkxdDg4YTdGTHVUVUdnekpnVlE9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TeleV_1200x1200.png" tvg-country="CA" tvg-url="" group-title="",Tele-V
+https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://bopiweb.com/imagenes/2580/tomo.1.M-3503739-3.jpg" tvg-country="ES" tvg-url="" group-title="Local",Trebujena TV
+https://wowzaprod256-i.akamaihd.net/hls/live/779970/7e9bac89/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IL" tvg-url="" group-title="",Ynet Live
+https://ynet-lh.akamaihd.net/i/ynet_1@123290/index_1_av-p.m3u8?sd=10&rebase=on%7CUser-Agent=Mozilla/5.0%20(Windows%20NT%206.1;%20rv:40.0)%20Gecko/20100101%20Firefox/40.0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IL" tvg-url="" group-title="",אתר ספורט 5
+https://sport5-lh.akamaihd.net/i/radiolivev_0@698733/index_1_av-p.m3u8?sd=10&rebase=on%7CUser-Agent=Mozilla/5.0%20(Windows%20NT%206.1;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/44.0.2403.157%20Safari/537.36&Referer=http://radio.sport5.co.il
